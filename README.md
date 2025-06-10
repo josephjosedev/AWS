@@ -1,4 +1,4 @@
-How Can Users access AWS
+How Users  can access AWS
 
 1)AWS Management Console(Protected by password+ MFA(Multi Factor Authentication)
 
