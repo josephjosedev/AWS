@@ -15,3 +15,14 @@ To check Version
 ```
 aws --version
 ```
+
+```
+aws configure
+```
+
+```
+aws iam list-users
+```
+> Every command starts by word **aws**
+> its an open source
+> 
