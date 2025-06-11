@@ -19,3 +19,4 @@
 >Launching first VM using AWS Console
 
 >webserver launching using EC2 User data and learn how to start/stop/terminate our instance.
+EC2->Instances->launch instance
