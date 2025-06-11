@@ -13,3 +13,9 @@
    >Bootstraping means lauching commandas when amachine starts.
 
    >the script is only run once at the instance first start
+
+**Launching EC2 Instance running Linux**
+
+>Launching first VM using AWS Console
+
+>webserver launching using EC2 User data and learn how to start/stop/terminate our instance.
