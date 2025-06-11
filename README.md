@@ -1,17 +1,19 @@
-Cloud Computing
 
-on demand delivery of compute power , database storage, applicationsand other resources.
+<ins> Cloud Computing</ins>
 
-pay as you go pricing
+>on demand delivery of compute power , database storage, applicationsand other resources.
 
-access as many as you need almost instantly.
+>pay as you go pricing
 
-**Cloud Services**
+>access as many as you need almost instantly.
 
-Eg:e-mail,Dropbox(built on aws), Netflix(built  on AWS,Video on demand)
+<ins>**Cloud Services**</ins>
+
+Eg:e-mail,Dropbox(built on aws), 
+Netflix(built  on AWS,Video on demand)
 
 
-**Deployment models of the cloud**
+<ins>**Deployment models of the cloud**</ins>
 
 a)Private Cloud
 
@@ -20,7 +22,7 @@ b)Public Cloud
 c)Hybrid Cloud
 
 
-**How Users  can access AWS**
+<ins>**How Users  can access AWS**</ins>
 
 1)AWS Management Console(Protected by password+ MFA(Multi Factor Authentication)
 
